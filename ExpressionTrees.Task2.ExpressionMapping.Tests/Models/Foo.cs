@@ -1,7 +1,8 @@
 ﻿namespace ExpressionTrees.Task2.ExpressionMapping.Tests.Models
 {
-    internal class Foo
+    public class Foo
     {
-        // add here some properties
+        public string Foo1 { get; set; }
+        public string Foo2 { get; set; }
     }
 }
